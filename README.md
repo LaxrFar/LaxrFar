@@ -1,5 +1,5 @@
-### Hi there 👋, My Name Is Rosie
-  - 💬 Best place to reach me: [Discord](https://discord.com/users/706172448696959037)
+### Hi there 👋, My Name Is LaxrFar
+  - 💬 Best place to reach me: [Discord](https://discord.gg/jHwfQCK)
   - ⚡ Language's I Mostly Use: [👑] Python 
   <br>
 <a href="https://github.com/laxrfar">
