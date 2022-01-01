@@ -1,5 +1,5 @@
 ### Hi there 👋, My Name Is LaxrFar
-  - 💬 Best place to reach me: [Discord](https://discord.gg/jHwfQCK)
+  - 💬 Best place to reach me: [Discord](https://discord.com/invite/pandg8UaJ7)
   - ⚡ Language's I Mostly Use: [👑] Python 
   <br>
 <a href="https://github.com/laxrfar">
