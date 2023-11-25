@@ -4,7 +4,7 @@
 
 - 👨‍💻 I’m currently working on [SMM-PANEL.CC](https://smm-panel.cc)
 
-- 🤔 I’m currently learning **C# and C++**
+- 🤔 I’m currently learning **C# & C++**
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
