@@ -21,4 +21,4 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxrfar&layout=donut-vertical&exclude_repo=File-Uploader" alt="laxrfar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxrfar&layout=donut-vertical&exclude_repo=File-Uploader,register" alt="laxrfar" /></p>
